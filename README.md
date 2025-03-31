@@ -60,7 +60,6 @@ This is primarily a learning project, but if you find anything interesting or ha
 
 ## 📜 Notes
 - Always give the prompt properly while infering the model
-This repository is for educational purposes and does not include any proprietary code. You are free to use and modify it under the MIT License.
 
 ---
 Happy Learning! 🚀
