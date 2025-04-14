@@ -12,18 +12,6 @@ This repository serves as a collection of my notes, implementations, and experim
 - Training and Fine-tuning LLMs
 - Experimenting with Small-Scale Language Models
 
-## 📂 Repository Structure
-```
-my-deep-learning/
-│── notebooks/          # Jupyter notebooks with implementations & experiments
-│── src/               # Source code for custom models and utilities
-│── data/              # Sample datasets (if applicable)
-│── models/            # Saved models and checkpoints
-│── docs/              # Learning notes and explanations
-│── requirements.txt   # Dependencies for running the code
-│── README.md          # This file
-```
-
 ## 🚀 Getting Started
 To set up the environment and start experimenting, follow these steps:
 
